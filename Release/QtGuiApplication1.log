@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/2/11 23:57:15。
+     1>项目“C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>CustomBuild:
+         Moc'ing Beginner.h...
+       ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IF:\QT\5.7\msvc2013\include /I.\GeneratedFiles\Release /IF:\QT\5.7\msvc2013\include\QtCore /IF:\QT\5.7\msvc2013\include\QtGui /IF:\QT\5.7\msvc2013\include\QtWidgets /nologo /W1 /WX- /O2 /Oy- /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /D UNICODE /D WIN32 /D WIN64 /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Beginner.cpp GeneratedFiles\Release\moc_Beginner.cpp main.cpp
+         Beginner.cpp
+         moc_Beginner.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\Win32\Release\QtGuiApplication1.exe" /NOLOGO /LIBPATH:F:\QT\5.7\msvc2013\lib qtmain.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\Win32\Release\QtGuiApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\Win32\Release\QtGuiApplication1.lib" /MACHINE:X86 /SAFESEH Release\icon.res
+         Release\Beginner.obj
+         Release\moc_Beginner.obj
+         Release\main.obj
+         QtGuiApplication1.vcxproj -> C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\Win32\Release\QtGuiApplication1.exe
+     1>已完成生成项目“C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.23

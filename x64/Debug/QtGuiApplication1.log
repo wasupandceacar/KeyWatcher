@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/2/11 23:57:53。
+     1>项目“C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IE:\QT\5.7\msvc2013_64\include /I.\GeneratedFiles\Debug /IE:\QT\5.7\msvc2013_64\include\QtCore /IE:\QT\5.7\msvc2013_64\include\QtGui /IE:\QT\5.7\msvc2013_64\include\QtWidgets /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Beginner.cpp GeneratedFiles\Debug\moc_Beginner.cpp main.cpp
+         Beginner.cpp
+         moc_Beginner.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         E:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\x64\Debug\\QtGuiApplication1.exe" /NOLOGO /LIBPATH:E:\QT\5.7\msvc2013_64\lib qtmaind.lib Qt5Cored.lib Qt5Guid.lib Qt5Widgetsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\x64\Debug\QtGuiApplication1.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\x64\Debug\QtGuiApplication1.lib" /MACHINE:X64 x64\Debug\icon.res
+         x64\Debug\Beginner.obj
+         x64\Debug\moc_Beginner.obj
+         x64\Debug\main.obj
+         QtGuiApplication1.vcxproj -> C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe
+     1>已完成生成项目“C:\Users\T440\Documents\Visual Studio 2013\Projects\QtGuiApplication1\QtGuiApplication1\QtGuiApplication1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.37
